@@ -1,1 +1,1 @@
-echo Build completed!
+echo "Build completed!"
